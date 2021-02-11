@@ -1,5 +1,5 @@
 def main(str):
 	print(str)
 
-str = "Hello Gopika"
+str = "Hello Kezia"
 main(str)
